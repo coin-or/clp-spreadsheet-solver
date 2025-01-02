@@ -19,5 +19,3 @@ DevelopmentStatus:
   testedPlatforms:
   - operatingSystem: Windows
     compiler: MS Excel
-  - operatingSystem: macOS
-    compiler: MS Excel
