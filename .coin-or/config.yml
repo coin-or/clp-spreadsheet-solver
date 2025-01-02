@@ -1,0 +1,23 @@
+Description:
+  Slug: clp-spreadsheet-solver
+  ShortName: clp-spreadsheet-solver
+  LongName: CLP Spreadsheet Solver
+  ShortDescription: Tool for representing, solving, and visualizing Container Loading Problems (3D bin backing)
+  Manager: Güneş Erdoğan
+  Homepage: https://github.com/coin-or/clp-spreadsheet-solver
+  License: Eclipse Public License 2.0
+  LicenseURL: http://www.opensource.org/licenses/EPL-2.0
+  Language:
+    - MS Excel
+  Categories:
+    - Optimization utility
+    - Visualization software
+
+DevelopmentStatus:
+  activityStatus: Active
+  maturityLevel: 3
+  testedPlatforms:
+  - operatingSystem: Windows
+    compiler: MS Excel
+  - operatingSystem: macOS
+    compiler: MS Excel
